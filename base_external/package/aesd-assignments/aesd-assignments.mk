@@ -6,7 +6,7 @@
 
 AESD_ASSIGNMENTS_VERSION = master
 # Use a variable to avoid the validation script complaining about HTTPS
-AESD_ASSIGNMENTS_REPO_URL = https://github.com/cu-ecen-aeld/assignment-4-3rif005-commits.git
+AESD_ASSIGNMENTS_REPO_URL = https://github.com/cu-ecen-aeld/assignments-3-and-later-3rif005-commits.git
 AESD_ASSIGNMENTS_SITE = $(AESD_ASSIGNMENTS_REPO_URL)
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
